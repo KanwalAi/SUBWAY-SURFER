@@ -8,6 +8,10 @@ Players navigate through a three-lane track, avoid dynamically generated obstacl
 
 ---
 
+## Gameplay Demo
+
+[Gameplay Video](https://drive.google.com/file/d/1Fsim-kxk77eHOSV-zZBL4D9sjmNyX2EX/view?usp=drive_link)
+
 ## Screenshots
 
 ### Main Menu
