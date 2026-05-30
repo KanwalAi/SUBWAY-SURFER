@@ -12,36 +12,6 @@ Players navigate through a three-lane track, avoid dynamically generated obstacl
 
 [Gameplay Video](https://drive.google.com/file/d/1Fsim-kxk77eHOSV-zZBL4D9sjmNyX2EX/view?usp=drive_link)
 
-## Screenshots
-
-### Main Menu
-
-![Main Menu](Screenshots/main-menu.png)
-
-### Gameplay
-
-![Gameplay](Screenshots/gameplay.png)
-
-### Jump Mechanic
-
-![Jump Mechanic](Screenshots/jump.png)
-
-### Sliding Mechanic
-
-![Sliding Mechanic](Screenshots/slide.png)
-
-### Obstacle System
-
-![Obstacle System](Screenshots/obstacles.png)
-
-### Power-Ups
-
-![Power-Ups](Screenshots/powerups.png)
-
-### Score Screen
-
-![Score Screen](Screenshots/score.png)
-
 ---
 
 ## Gameplay Overview
